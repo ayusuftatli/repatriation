@@ -8,4 +8,4 @@ The primary objective of this assignment is to visually represent the number of 
 
 To accomplish this, I utilised two datasets from Eurostat: ["Third Country Nationals Ordered to Leave"](https://ec.europa.eu/eurostat/databrowser/view/MIGR_EIORD/default/table?lang=en&category=migr.migr_man.migr_eil) and ["Third Country Nationals Returned Following an Order to Leave."](https://ec.europa.eu/eurostat/databrowser/view/MIGR_EIRTN/default/table?lang=en) In this project, I aim to create visualisations that can be utilised to facilitate a comprehensive analysis of the dynamics and outcomes of return policies within the African context.
 
-You can reach the full blog post here
+You can reach the full blog post [here](https://ayusuftatli.com/repatriation)
